@@ -21,3 +21,12 @@ black[jupyter]>=22.1.0
 
 # (Optional) Jupyter itself, if you want to ensure the same notebook environment
 jupyterlab>=3.0
+
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+black[jupyter]
